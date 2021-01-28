@@ -1,13 +1,13 @@
 {
-  "name": "q-player-youtube",
+  "name": "uno-youtube",
   "version": "1.0.0",
   "private":true,
-  "description": "Youtube app for Q music player",
+  "description": "YouTube app for Q Music Player",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "bob",
-  "license": "ISC",
+  "author": "anon40045",
+  "license": "GPL-3.0",
   "dependencies": {
     "ytdl-core": ">0.25.2",
     "ytpl": ">=0.1.14",
