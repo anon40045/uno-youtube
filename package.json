@@ -1,0 +1,16 @@
+{
+  "name": "q-player-youtube",
+  "version": "1.0.0",
+  "private":true,
+  "description": "Youtube app for Q music player",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bob",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": ">0.25.2",
+    "ytpl": ">=0.1.14",
+    "ytsr": ">=0.1.8"
+  }
+}

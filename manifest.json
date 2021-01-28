@@ -1,0 +1,21 @@
+{
+	"name":"YouTube (Unofficial)"
+	,"description":"Play the audio from any video on YouTube"
+	,"version":1
+	,"type":"player"
+	,"scope":[
+		"BetterLog"
+		,"BetterUtil.cX.trim"
+		,"BetterUtil.cX.logVar"
+		,"BetterUtil.cX.getRandomInt"
+		,"BetterUtil.cX.tomorrow"
+		,"BetterUtil.httpX.head"
+		,"api.apps.q-ffmpeg.ffmpeg"
+		,"api.apps.ytdl-core"
+	]
+	,"main":"youtube.player.js"
+	,"simultaneousPlay":true
+	,"online":true
+	,"infinitLibrary":true 
+	,"rootFolder":"/YouTube/"	
+}
