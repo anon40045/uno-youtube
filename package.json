@@ -2,7 +2,7 @@
   "name": "uno-youtube",
   "version": "1.0.0",
   "private":true,
-  "description": "YouTube app for Q Music Player",
+  "description": "Unofficial YouTube app for Q Music Player",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
